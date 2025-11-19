@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Home"
+title: "Welcome!"
 ---
 
-# Denz Del Villar
+# Hi, my name is Denz.
 
-Research Software Engineer specialising in mobile health, simulation, and research software.
+I'm a Research Software Engineer with experience in health apps, traffic simulation, and research software tools.
 
 - [Resume](./resume)
 - [Research & Academic CV](./academic_cv)
