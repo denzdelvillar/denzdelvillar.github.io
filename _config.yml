@@ -9,8 +9,7 @@ author:
 
 github_username: denzdelvillar
 
-# Which pages appear in the top navigation bar (in this order)
 header_pages:
   - index.md
-  - cv-industry.md
-  - cv-research.md
+  - resume.md
+  - academic_cv.md
