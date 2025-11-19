@@ -1,3 +1,16 @@
 title: "Denz Del Villar"
-description: "Research Software Engineer · LightUP · Simulation & Mobile Health"
+tagline: "Research Software Engineer · Mobile Health & Simulation"
+description: "I build research-grade software tools for mobile health, light exposure, and transport simulation."
 theme: minima
+
+author:
+  name: "Denz Del Villar"
+  email: "denzdelvillar@gmail.com"
+
+github_username: denzdelvillar
+
+# Which pages appear in the top navigation bar (in this order)
+header_pages:
+  - index.md
+  - cv-industry.md
+  - cv-research.md
