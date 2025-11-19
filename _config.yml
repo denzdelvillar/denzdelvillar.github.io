@@ -1,14 +1,20 @@
 title: "Denz Del Villar"
-tagline: "Research Software Engineer · Mobile Health & Simulation"
+tagline: "Research Software Engineer · Mobile Health · Simulation"
 theme: minima
 
 author:
   name: "Denz Del Villar"
   email: "denzdelvillar@gmail.com"
-
-github_username: denzdelvillar
+  github: "denzdelvillar"
+  url: "https://github.com/denzdelvillar"
 
 header_pages:
   - index.md
+  - projects.md
   - resume.md
-  - academic_cv.md
+  - cv.md
+
+minima:
+  social_links:
+    github: denzdelvillar
+    email: denzdelvillar@gmail.com

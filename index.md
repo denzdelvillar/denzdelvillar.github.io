@@ -1,11 +1,49 @@
 ---
 layout: page
-title: "Welcome!"
+title: "Home"
+permalink: /
 ---
 
-# Hi, my name is Denz.
+# 👋 Hi, I'm Denz.
 
-I'm a Research Software Engineer with experience in health apps, traffic simulation, and research software tools.
+I'm a Research Software Engineer specialising in **mobile health**, **sensor data pipelines**, and **simulation/optimization tools**.  
+I build research-grade software that bridges **science**, **data**, and **real-world applications**—from deploying iOS/Android mHealth apps to designing transport simulation algorithms and researcher tooling.
 
-- [Resume](./resume)
-- [Research & Academic CV](./academic_cv)
+---
+
+## 🔧 Featured Work
+
+### **LightUP — Mobile Health Platform for Light Exposure**
+
+_Lead Software Engineer (2023–2025)_  
+A full-stack mobile intervention app used in multi-institutional studies (NUS & TUM).
+
+- Built with Ionic + Angular
+- Wearable integration via ActLumus sensors
+- Firebase backend with daily summarizer & audit logging
+- ECharts visualisations of circadian light exposure
+- Notification, goals, reward systems, diaries  
+  → **[Resume](./resume)** · **[CV](./cv)**
+
+---
+
+### **CityMoS — City Mobility Simulator**
+
+_Simulation Optimization & Calibration_
+
+- Designed genetic algorithm + Bayesian optimization calibration engine
+- Improved realism of traffic demand and driver behavior models
+- Worked with transport planners and researchers
+
+---
+
+### **Cooling Singapore 2.0**
+
+_Urban Heat & EV Simulation Tools_
+
+- Implemented mesoscopic EV modelling
+- Improved itinerary generation & origin–destination algorithms
+
+---
+
+If you'd like to learn more, check out my **[Resume](./resume)** (industry-focused) or my **[Academic CV](./cv)**.
