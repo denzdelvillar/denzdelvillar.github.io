@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: "CV"
 permalink: /cv/
 ---
 
-# Academic CV — Denz Del Villar
+# Academic CV
 
 ## Research Interests
 

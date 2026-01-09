@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: "Resume"
 permalink: /resume/
 ---
 
-# Resume — Denz Del Villar
+# Resume
 
 ## Professional Summary
 
