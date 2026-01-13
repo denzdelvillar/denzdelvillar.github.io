@@ -26,7 +26,7 @@ My contributions:
 - Implemented light exposure visualisations using ECharts
 - Designed notification, goal-setting, reward, and diary systems
 
-[LightSPAN project →](https://example.com)
+[LightSPAN project →](https://www.tum-create.edu.sg/research/lightspan)
 
 ### **CityMoS — City Mobility Simulation Software**
 

@@ -8,57 +8,67 @@ permalink: /resume/
 
 ## Professional Summary
 
-Research Software Engineer with 7+ years of experience building production-grade mobile apps, sensor data pipelines, cloud systems, and scientific tools. Strong background in Python, Angular/Ionic, Firebase, simulation, and optimization. Experienced in delivering real-world software for multi-institutional research studies involving wearables and participant-facing interventions.
+Research Software Engineer with 7+ years of experience designing, building, and shipping production-grade software systems across mobile applications, cloud backends, sensor data pipelines, and simulation tools. Strong background in full-stack development, cloud architecture, and applied optimisation, with a track record of delivering real-world systems for multi-institutional research and industry-facing projects.
 
----
+## Core Strengths
 
-## Key Strengths
-
-- Full-stack mobile development (Ionic, Angular, Capacitor)
-- Cloud backend architecture (Firebase: Firestore, Cloud Functions, Storage)
-- Sensor data ingestion, summarization, and validation
-- ECharts data visualization & UX for research tools
-- Simulation models & optimization logic
-- Deployment to App Store / Google Play
+- End-to-end mobile app development (iOS & Android)
+- Cloud backend architecture & data pipelines (Firebase)
+- Sensor and wearable data ingestion & validation
+- Data visualisation and UX for research tools
+- Simulation systems & optimisation logic
+- App Store / Google Play deployment
 - Cross-disciplinary collaboration (engineering + research)
-
----
 
 ## Experience
 
-### 🚀 LightUP — Lead Software Engineer (2023–2025)
+### **LightUP — Lead Software Engineer**
 
-- Built end-to-end iOS/Android mobile health system used in NUS–TUM study
-- Architected Firebase backend (summarizers, audit logs, device sync pipeline)
-- Integrated ActLumus wearables via Condor API
-- Implemented diaries, notifications, reward mechanics, and condition logic
-- Built ECharts for light exposure (daily, weekly, segmented)
-- Published to App Store & Google Play
+_2023 – Present_
 
-### 🚗 CityMoS — Simulation Optimization Engineer
+Lead engineer for LightUP, a mobile health intervention app developed as part of the **[LightSPAN →](https://www.tum-create.edu.sg/research/lightspan)** research project (NUS & TUM).
 
-- Designed GA/BO calibration framework
-- Improved traffic demand and behavioral realism
-- Developed reproducible tooling for scenario analysis
+**Key contributions:**
 
-### 🌡 Cooling Singapore 2.0 — Simulation Developer
+- Led end-to-end development of an iOS/Android app using Ionic + Angular
+- Architected Firebase backend systems, including daily summarisation and audit logging pipelines
+- Integrated wearable light-sensing data from ActLumus devices via external APIs
+- Designed and implemented circadian light exposure visualisations using ECharts
+- Built notification, goal-setting, reward, and diary systems to support behavioural interventions
+- Managed production releases to the Apple App Store and Google Play Store
 
-- Built EV modelling & heat emission algorithms
-- Improved agent itinerary generation
+### **CityMoS — Software Engineer (Simulation Optimisation & Calibration)**
 
----
+Worked on **[CityMoS →](https://citymos.net)**, a city-scale, agent-based mobility simulation platform developed at TUMCREATE and the MoVES Laboratory.
+
+**Key contributions:**
+
+- Designed a configurable calibration engine using genetic algorithms and Bayesian optimisation
+- Improved realism of traffic demand and driver behaviour models
+- Developed reproducible tooling for large-scale scenario calibration
+- Collaborated with transport planners and researchers to tune simulation parameters
+
+### **Cooling Singapore 2.0 — Simulation Developer**
+
+**[Cooling Singapore →](https://sec.ethz.ch/research/cs.html)** is a multi-institutional research programme to develop a Digital Urban Climate Twin (DUCT) for urban heat island and outdoor thermal comfort analysis.
+
+**Key contributions:**
+
+- Implemented mesoscopic electric vehicle modelling and anthropogenic heat emission algorithms
+- Improved agent itinerary generation from origin–destination matrices to enhance simulation performance
 
 ## Skills
 
 **Languages:** Python, TypeScript, Java, C++, C#  
-**Frameworks:** Angular, Ionic, Capacitor, React (exposure)  
-**Cloud:** Firebase, Docker, Linux  
-**Data/AI:** Pandas, NumPy, Scikit-learn, PyTorch (light)  
-**Other:** Git, CI/CD, research-grade tooling
-
----
+**Frameworks:** Angular, Ionic, Capacitor  
+**Cloud & DevOps:** Firebase (Firestore, Cloud Functions, Storage), Docker, Linux  
+**APIs & Integration:** REST APIs, third-party API integration  
+**Data & Optimisation:** Pandas, NumPy, Scikit-learn, genetic algorithms, Bayesian optimisation  
+**Data & Visualisation:** ECharts, time-series data, JSON/CSV  
+**Software Practices:** Git, CI/CD, unit & integration testing, data validation  
+**System Design:** data pipelines, application state management, fault-tolerant workflows
 
 ## Education
 
-- PGCert in Artificial Intelligence — University of Leeds
-- BS Physics (Minor in German) — Ateneo de Manila University
+**PGCert in Artificial Intelligence** — University of Leeds  
+**BS Physics (Minor in German)** — Ateneo de Manila University
